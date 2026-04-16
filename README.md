@@ -87,3 +87,4 @@ This site is not affiliated with Tower Hamlets Council or with any political
 party or candidate. It is a civic information resource. For the definitive
 legal list of candidates and polling locations, always check{" "}
 [towerhamlets.gov.uk](https://www.towerhamlets.gov.uk/).
+
